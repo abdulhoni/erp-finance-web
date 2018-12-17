@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m 'komentar apa aja'
+git push origin master
